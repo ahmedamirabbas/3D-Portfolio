@@ -1,0 +1,30 @@
+import { Suspense } from 'react'
+import {Canvas} from '@react-three/fiber'
+import Loader from '../components/Loader'
+
+import Island from '../models/Island'
+
+{/* <div className='absolute top-28 left-0 right-0 z-10 flex items-center justify-center'>
+  POPUP
+</div> */}
+
+const Home = () => {
+  const adjustIslandForScreenSize = () => {
+    
+  }
+
+  return (
+    <section className='w-fukk h-screen relative'>
+      <Canvas 
+      className='w-full h-screen bd-transparent'
+      camera={{near: 0.1, far: 1000}}
+      >
+        <Suspense fallback={<Loader/>}>
+          <Island/>
+        </Suspense>
+      </Canvas>
+    </section>
+  )
+}
+
+export default Home
