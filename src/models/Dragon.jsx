@@ -19,9 +19,7 @@ const Dragon = ({isRotating, ...props}) => {
     }, [actions, isRotating])
   
     return (
-      <mesh {...props} ref={ref}
-      position={[0, -1, 2]} scale={[30,30,30]} rotation={[0,-30,0]}
-      {...props}>
+      <mesh {...props} ref={ref}>
           <primitive object={scene} />
       </mesh>
     )
