@@ -176,7 +176,7 @@ export const projects = [
     name: 'Amazon Price Tracker',
     description:
       'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-    link: 'https://github.com/adrianhajdin/pricewise',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: threads,
@@ -184,7 +184,7 @@ export const projects = [
     name: 'Full Stack Threads Clone',
     description:
       'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: 'https://github.com/adrianhajdin/threads',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: car,
@@ -192,7 +192,7 @@ export const projects = [
     name: 'Car Finding App',
     description:
       'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-    link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: snapgram,
@@ -200,7 +200,7 @@ export const projects = [
     name: 'Full Stack Instagram Clone',
     description:
       'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-    link: 'https://github.com/adrianhajdin/social_media_app',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: estate,
@@ -208,7 +208,7 @@ export const projects = [
     name: 'Real-Estate Application',
     description:
       'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-    link: 'https://github.com/adrianhajdin/projects_realestate',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: summiz,
@@ -216,6 +216,6 @@ export const projects = [
     name: 'AI Summarizer Application',
     description:
       'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-    link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+    link: 'https://ahmedamir.dev',
   },
 ];
