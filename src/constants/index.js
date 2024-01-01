@@ -115,7 +115,7 @@ export const experiences = [
     company_name: 'Freelancer',
     icon: frontend,
     iconBg: '#accbe1',
-    date: 'March 2020 - April 2021',
+    date: 'March 2023 - Present',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -128,7 +128,7 @@ export const experiences = [
     company_name: 'Self Employed',
     icon: gamedev,
     iconBg: '#fbc3bc',
-    date: 'Jan 2021 - Feb 2022',
+    date: 'Jan 2022 - Present',
     points: [
       'Implemented monetisation strategies such as in-game purchases and advertisemetns.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -142,7 +142,7 @@ export const experiences = [
     company_name: 'Lingucraft',
     icon: tech,
     iconBg: '#b7e4c7',
-    date: 'Jan 2019 - Dec 2021',
+    date: 'Feb 2019 - Dec 2021',
     points: [
       'Designed, developed and maintained the companys website.',
       'Supported with basic technical support for current and past software releases.',
