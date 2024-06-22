@@ -192,7 +192,7 @@ export const projects = [
     name: 'Car Finding App',
     description:
       'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-    link: 'https://ahmedamir.dev',
+    link: 'https://car-showcase-5oms0tmxm-ahmedamirdev.vercel.app/',
   },
   {
     iconUrl: snapgram,
