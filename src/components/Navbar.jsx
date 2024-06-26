@@ -9,10 +9,10 @@ const Navbar = () => {
         <p className="blue-gradient_text">AA</p>
       </NavLink>
       <nav className='flex text-lg gap-7 font-medium'>
-        <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" } target="blank">
+        <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" } >
           About
         </NavLink>
-        <NavLink to='/projects' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} target="blank">
+        <NavLink to='/projects' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} >
           Projects
         </NavLink>
         <NavLink to='https://ahmedamir7.itch.io' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} target="blank">
