@@ -1,4 +1,4 @@
-import { frontend, gamedev, tech } from '../assets/images';
+import { frontend, gamedev, tech, sw } from '../assets/images';
 import {
   car,
   contact,
@@ -171,12 +171,20 @@ export const socialLinks = [
 
 export const projects = [
   {
+    iconUrl: sw,
+    theme: 'btn-back-orange',
+    name: 'StaffWorthy',
+    description:
+      'Developed a sophisticated corporate recruitment website designed to streamline the hiring process for businesses of all sizes.',
+    link: 'https://staffworthy.com',
+  },
+  {
     iconUrl: pricewise,
     theme: 'btn-back-red',
     name: 'Amazon Price Tracker',
     description:
       'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-    link: 'https://amazon-scraper-eight.vercel.app/',
+    link: 'https://rapidapi.com/ahmedamirabbas/api/amir-amazon-data-scraper',
   },
   {
     iconUrl: threads,
