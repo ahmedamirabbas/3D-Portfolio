@@ -4,5 +4,6 @@ import gamedev from './gamedev.png';
 import tech from './tech.png';
 import logo from './logo.svg';
 import sw from './sw.png';
+import games from './games.png';
 
-export { hero, frontend, gamedev, tech, logo, sw };
+export { hero, frontend, gamedev, tech, logo, sw, games };

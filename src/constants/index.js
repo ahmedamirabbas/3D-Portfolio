@@ -1,4 +1,4 @@
-import { frontend, gamedev, tech, sw } from '../assets/images';
+import { frontend, gamedev, tech, sw, games } from '../assets/images';
 import {
   car,
   contact,
@@ -225,5 +225,13 @@ export const projects = [
     description:
       'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
     link: 'https://sumitup-eosin.vercel.app/',
+  },
+  {
+    iconUrl: games,
+    theme: 'btn-back-blue',
+    name: 'Games Hub Application',
+    description:
+      'Games Hub offers a diverse collection of online games, providing an engaging and seamless gaming experience in one convenient location.',
+    link: 'https://games-hub-jet.vercel.app/',
   },
 ];
