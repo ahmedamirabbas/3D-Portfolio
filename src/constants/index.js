@@ -187,12 +187,20 @@ export const projects = [
     link: 'https://rapidapi.com/ahmedamirabbas/api/amir-amazon-data-scraper',
   },
   {
-    iconUrl: threads,
-    theme: 'btn-back-green',
-    name: 'Full Stack Threads Clone',
+    iconUrl: summiz,
+    theme: 'btn-back-yellow',
+    name: 'AI Summarizer Application',
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: 'https://ahmedamir.dev',
+      'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
+    link: 'https://sumitup-eosin.vercel.app/',
+  },
+  {
+    iconUrl: games,
+    theme: 'btn-back-blue',
+    name: 'Games Hub Application',
+    description:
+      'Games Hub offers a diverse collection of online games, providing an engaging and seamless gaming experience in one convenient location.',
+    link: 'https://games-hub-jet.vercel.app/',
   },
   {
     iconUrl: car,
@@ -200,7 +208,15 @@ export const projects = [
     name: 'Car Finding App',
     description:
       'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-    link: 'https://car-showcase-5oms0tmxm-ahmedamirdev.vercel.app/',
+    link: 'https://car-showcase-puce-eta.vercel.app/',
+  },
+  {
+    iconUrl: threads,
+    theme: 'btn-back-green',
+    name: 'Full Stack Threads Clone',
+    description:
+      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+    link: 'https://ahmedamir.dev',
   },
   {
     iconUrl: snapgram,
@@ -217,21 +233,5 @@ export const projects = [
     description:
       'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
     link: 'https://ahmedamir.dev',
-  },
-  {
-    iconUrl: summiz,
-    theme: 'btn-back-yellow',
-    name: 'AI Summarizer Application',
-    description:
-      'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-    link: 'https://sumitup-eosin.vercel.app/',
-  },
-  {
-    iconUrl: games,
-    theme: 'btn-back-blue',
-    name: 'Games Hub Application',
-    description:
-      'Games Hub offers a diverse collection of online games, providing an engaging and seamless gaming experience in one convenient location.',
-    link: 'https://games-hub-jet.vercel.app/',
   },
 ];
