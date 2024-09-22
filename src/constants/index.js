@@ -138,7 +138,7 @@ export const experiences = [
     ],
   },
   {
-    title: 'Founde & CTO',
+    title: 'Founder & CTO',
     company_name: 'Lingucraft',
     icon: tech,
     iconBg: '#b7e4c7',
