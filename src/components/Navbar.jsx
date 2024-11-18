@@ -15,6 +15,9 @@ const Navbar = () => {
         <NavLink to='/projects' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} >
           Projects
         </NavLink>
+        <NavLink to='https://bit.ly/4e9fD1Z' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} target="blank">
+          Courses
+        </NavLink>
         <NavLink to='https://ahmedamir7.itch.io' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"} target="blank">
           Play
         </NavLink>
